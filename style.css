@@ -1,0 +1,5 @@
+h1{font-size: 100px;color: red;-webkit-text-stroke: 5px black;background-color: white;}
+body{text-align: center;background:linear-gradient(#32CD32 0%,#DDF9F1 100%);}
+.pizza{
+    width: 500px; height: 500px; border: solid;border-width: 10px;
+}
